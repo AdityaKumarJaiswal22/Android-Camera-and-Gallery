@@ -8,3 +8,5 @@ This project will be a part of Another project that is similar to GOOGLE LENS bu
 2. By clicking on Camera button you will be directed to camera by ANDROID if to click and confirm the clicked image it
    will be stored in gallery as well as it will be displayed in app inside imageView.
 NOTE: This project is not solely developed by me I have taken help of Internet and YouTube.
+
+Changes made by Aniket
